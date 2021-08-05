@@ -1,7 +1,7 @@
 {
-"name":"NGS発達障がい支援プール",
-"ticker":"",
-"discordId":"",
+"name":"NGS発達障がい支援プール［KGSP］（こう）#9302",
+"ticker":"KGSP",
+"discordId":"NGS発達障がい支援プール［KGSP］（こう）#9302",
 "pool-list":"true",
 "poolMetaData":"https://github.com/SatoSatoshi/cardano/blob/main/poolMetaData.json",
 "validation":"https://github.com/SatoSatoshi/cardano/blob/main/sjg-validation.json"
