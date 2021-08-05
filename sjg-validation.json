@@ -4,5 +4,5 @@
 "discordId":"",
 "pool-list":"true",
 "poolMetaData":"https://github.com/SatoSatoshi/cardano/blob/main/poolMetaData.json",
-"validation":""
+"validation":"https://github.com/SatoSatoshi/cardano/blob/main/sjg-validation.json"
 }
